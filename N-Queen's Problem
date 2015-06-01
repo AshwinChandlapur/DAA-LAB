@@ -21,6 +21,7 @@ void printsol(int n,int x[])
 		{
 			printf("%c",c[i][j]);
 		}
+		printf("\n");
 	}
 }
 int place(int x[],int k)
